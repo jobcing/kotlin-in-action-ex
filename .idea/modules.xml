@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex_main.iml" group="kotlin-in-action-ex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-in-action-ex_test.iml" group="kotlin-in-action-ex" />
+    </modules>
+  </component>
+</project>
